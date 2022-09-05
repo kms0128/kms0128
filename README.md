@@ -51,9 +51,8 @@ https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=ğŸ
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 <hr/>
-
 <h4> GitHub Status </h4>
 
-[![Minsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms0128)](https://github.com/kms0128/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kms0128)](https://github.com/kms0128/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kms0128&layout=compact)](https://github.com/kms0128/github-readme-stats)
